@@ -3,6 +3,7 @@
     height: 300px;
     border: solid black 1px;
     position: absolute;
+    margin-top: 80px;
 }
 
 .block {
@@ -10,4 +11,20 @@
     height: 20px;
     background-color: blue;
     position: absolute;
+}
+
+
+.user {
+    width: 100px;
+    height: 20px;
+    background-color: purple;
+    position: absolute;
+}
+
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
 }
